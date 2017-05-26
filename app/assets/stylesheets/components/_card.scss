@@ -17,7 +17,7 @@
   left: 10px;
   font-size: 10px;
   text-transform: uppercase;
-  background-color:
+  background-color: white;
 }
 .card-description {
   position: absolute;
@@ -48,4 +48,11 @@
   background-color: white;
   border-radius: 5px;
   color: black;
+  top: 10px;
+  left: 30px;
+  font-size: 10px;
+}
+
+.cocktail-name {
+  text-align: center;
 }

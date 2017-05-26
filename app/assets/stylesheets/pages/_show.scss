@@ -1,0 +1,29 @@
+.btn-cocktail {
+  background-color: white;
+  border-radius: 1px;
+  border: 3px black solid;
+  color: black;
+  padding: 5px;
+  font-size: 12px;
+  font-weight: bolder;
+  margin-bottom: 100px;
+  text-decoration: none;
+}
+
+.btn-cocktail:hover {
+  background-color: black;
+  border-radius: 1px;
+  border: 3px black solid;
+  color: white;
+  padding: 5px;
+  text-decoration: none;
+}
+
+.dose-ingredients {
+  margin-right: 30px;
+  font-weight: bolder;
+}
+
+.dose-list {
+  margin-top: 30px;
+}

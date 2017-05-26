@@ -1,0 +1,19 @@
+[0G[1] pry(main)> curl http://lorempixel.com/800/600/city/9/ > san_francisco.jpg
+SyntaxError: unexpected '>'
+curl http://lorempixel.com/800/600/city/9/ > san_francisco.jpg
+                                            ^
+[1] pry(main)> rails c
+NameError: undefined local variable or method `c' for main:Object
+from (pry):1:in `<main>'
+[2] pry(main)> curl http://lorempixel.com/800/600/city/9/ > san_francisco.jpg
+SyntaxError: unexpected '>'
+curl http://lorempixel.com/800/600/city/9/ > san_francisco.jpg
+                                            ^
+[2] pry(main)> rails c
+[2] pry(main)> 
+[3] pry(main)> 
+[3] pry(main)> 
+[4] pry(main)> 
+[5] pry(main)> 
+[6] pry(main)> 
+[6] pry(main)> 

@@ -1,9 +1,10 @@
 // Your footer style
-#footer {
-  line-height: 26px;
-  padding: 0;
-  font-size: 20px;
-  color: #393939;
-  font-family: 'Monotype Tw Cen MT Std';
-  font-weight: 600;
+footer {
+  padding-bottom: 50px;
+  padding-top: 75px;
+  border-top: 1px solid #F4F4F5;
+}
+
+.footer-title {
+  padding-left: 40px;
 }
