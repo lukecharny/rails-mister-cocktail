@@ -1,0 +1,21 @@
+@import "utilities";
+@import "footer";
+@import "navbar";
+
+#main-page {
+  margin-top: 50px;
+}
+
+.cocktail-name {
+  font-size: 25px;
+  color: white;
+  text-transform: capitalize;
+}
+
+.popular-title {
+  text-align: center;
+  font-weight: bolder;
+}
+
+
+

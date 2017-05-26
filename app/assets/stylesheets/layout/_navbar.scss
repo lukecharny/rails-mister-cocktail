@@ -21,14 +21,19 @@
 
 /* Navbar logo */
 .navbar-wagon-brand img {
-  width: 50px;
+  width: 120px;
+  margin-right: 50px;
 }
 
 /* Navbar right section (with form, links, button) */
 .navbar-wagon-right {
+
+}
+
+.navbar-right {
   display: flex;
-  align-items: center;
-  justify-content: space-between;
+  justify-content: flex-end;
+
 }
 
 /* Navbar item */
@@ -36,6 +41,7 @@
   flex: 0 1 auto;
   cursor: pointer;
   padding: 0 20px;
+
 }
 
 /* Navbar standard link */
@@ -50,19 +56,8 @@
 
 /* Navbar right button */
 .navbar-wagon-button {
-  margin-left: 10px;
-  padding: 0 20px;
-  border-radius: 20em;
-  line-height: 40px;
-  background-color: #D23333;
-  color: white;
-  font-size: 14px;
-  border: 2px solid #D23333;
-}
-.navbar-wagon-button:hover {
-  color: white;
-  background: #D23333;
-  border-color: #ac2626;
+  color: black;
+  font-weight: bolder;
 }
 
 /* Navbar search form */
